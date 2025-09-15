@@ -2,37 +2,33 @@
 
 # 💫 Matidza M.Z
 
-Self-taught **Full-Stack Web Developer** transitioning into **Software Engineering**, passionate about building scalable and user-centric solutions using the **MERN stack** (MongoDB, Express.js, React, Node.js). Skilled in **RESTful API development**, **database design**, **authentication systems**, and **cloud deployment**. With a strong foundation in backend systems and front-end integration, I strive to deliver robust, production-ready applications that solve real-world problems.
+Self-taught MERN Stack Developer passionate about building scalable, production-ready web applications with JavaScript. I specialize in designing REST APIs, managing databases, and delivering seamless frontend-backend integration. Currently transitioning into Software Engineering with a focus on system design, cloud deployment, and performance optimization.
 
 <br/>
 
 ---
 
-### 🔭 I'm currently working on:
+### 🔭 Current Work
 
-A **MERN-based SaaS platform** that simplifies school admissions for parents across South Africa. The application streamlines the entire process—from online applications to real-time tracking and document uploads—helping bridge the gap between parents and educational institutions.
+🚀 Building a MERN-based SaaS platform that simplifies school admissions in South Africa, enabling parents to apply online, upload documents, and track applications in real-time.
 
 ### 💡 Recent Project:
 
 I recently completed a **student portal** for **North West University**. Built to enhance student experience, the platform provides quick access to exam timetables, academic records, and lecturer contact details—all from a centralized dashboard.
+✅ Developed a student portal for North West University, giving students centralized access to timetables, academic records, and lecturer contacts.
 
-### 👯 I’m looking to collaborate on:
 
-* MERN stack-based **web platforms** and **API-first architectures**
-* Projects that involve **real-time features**, **authentication**, and **performance optimization**
-* Scalable SaaS products and tools built with **Node.js**, **MongoDB**, and **React**
 
-### 🤝 I’m looking for help with:
+
+### 🌱 I’m currently learning:
 
 * Deepening knowledge in **cloud architecture**, **microservices**, and **containerization**
 * Mastering **async task queues**, **message brokers**, and **horizontal scaling** techniques
 
-### 🌱 I’m currently learning:
-
 * Advanced **JavaScript algorithms** and **data structures**
 * Scalable system design (Redis, Kafka, RabbitMQ, SOLID principles)
 * Performance optimization and caching techniques
-* OAuth 2.0 & secure user authentication systems
+
 
 ---
 
@@ -76,10 +72,5 @@ I recently completed a **student portal** for **North West University**. Built t
 
 ---
 
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=matidza&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=matidza&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
