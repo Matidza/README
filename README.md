@@ -1,10 +1,9 @@
+
 ---
 
 # 💫 Matidza M.Z
 
 Self-taught MERN Stack Developer passionate about building scalable, production-ready web applications with JavaScript. I specialize in designing REST APIs, managing databases, and delivering seamless frontend-backend integration. Currently transitioning into Software Engineering with a focus on system design, cloud deployment, and performance optimization.
-
-<br/>
 
 ---
 
@@ -12,27 +11,41 @@ Self-taught MERN Stack Developer passionate about building scalable, production-
 
 🚀 Building a MERN-based SaaS platform that simplifies school admissions in South Africa, enabling parents to apply online, upload documents, and track applications in real-time.
 
-### 💡 Recent Project:
+### 💡 Recent Projects
 
-I recently completed a **student portal** for **North West University**. Built to enhance student experience, the platform provides quick access to exam timetables, academic records, and lecturer contact details—all from a centralized dashboard.
-✅ Developed a student portal for North West University, giving students centralized access to timetables, academic records, and lecturer contacts.
+* **Admission-Schools** (Django REST Framework, React) — Apr 2025–May 2025
+  [https://Admission-schools.up.railway.app](https://Admission-schools.up.railway.app)
+  ✅ Developed a RESTful API managing a centralized database of South African schools, cutting query latency by 30% through database indexing and optimized ORM queries.
+  ✅ Integrated the React frontend with backend endpoints, enhancing user interactivity by 40% through asynchronous JSON-based data rendering.
+  ✅ Enabled dynamic rendering of school data via REST endpoints, improving user experience.
+  ✅ Implemented modular backend logic with scalable models, simplifying future feature integration such as advanced search and filters.
 
+* **Admission** (Django & PostgreSQL) — Jul 2024–Mar 2025
+  [https://admission.up.railway.app](https://admission.up.railway.app)
+  ✅ Built a Django-based backend supporting multi-user admission tracking, serving 200+ beta users and improving transparency between parents and schools.
+  ✅ Implemented role-based dashboards with secure authentication, increasing data protection by 50% using encrypted sessions and restricted access routes.
+  ✅ Designed dynamic forms with file upload support, reducing manual errors by 40% through validation and structured input handling.
+  ✅ Automated email notifications for admission updates, decreasing administrative workload by 60%.
 
+* **E-Commerce Website** (Django, PostgreSQL, PayPal API) — Jan 2024–Jun 2024
+  [https://customs.up.railway.app](https://customs.up.railway.app)
+  ✅ Developed a secure backend integrating PayPal API, boosting successful transactions by 30% through improved payment error handling and validation logic.
+  ✅ Implemented shipment tracking API, enhancing logistics accuracy by 45% through automated order updates.
+  ✅ Optimized checkout workflows, increasing user satisfaction by 25% with reduced friction during payment processing.
 
+---
 
-### 🌱 I’m currently learning:
+### 🌱 I’m currently learning
 
 * Deepening knowledge in **cloud architecture**, **microservices**, and **containerization**
 * Mastering **async task queues**, **message brokers**, and **horizontal scaling** techniques
-
 * Advanced **JavaScript algorithms** and **data structures**
 * Scalable system design (Redis, Kafka, RabbitMQ, SOLID principles)
 * Performance optimization and caching techniques
 
-
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ### 🧠 Core
 
@@ -64,7 +77,7 @@ I recently completed a **student portal** for **North West University**. Built t
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muwevho-m-z)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://twitter.com/DLTA_Capital)
@@ -72,5 +85,3 @@ I recently completed a **student portal** for **North West University**. Built t
 
 ---
 
-
--->
